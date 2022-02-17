@@ -1,0 +1,55 @@
+Fundamental of UI/UX
+
+Apa itu UI/UX
+User interface itu tampilan visual dari aplikasi digital untuk menampilkan informasi dan sebagai medium dari action yang dilakukan oleh pengguna.
+User experience itu pengalaman seseorang ketika menggunakan sebuah aplikasi.
+UI/UX design itu sebuah proses pembuatan tampilan aplikasi atau website untuk memudahkan user ketika memakai aplikasi atau website.
+Perbedaan ui dan ux
+Kalau ui itu tampilan visual, yaitu visual design, colors, graphic designer atau asset asset desain seperti ikon ilustrasi, layout tata letak dan typography. Kalau ux itu ada interaction design bagaimana antar screen, wireframe dan prototype untuk mencoba aplikasi, information architect menentukan informasi mana yang penting ditampilkan secara prioritas, user research melakukan reset terhadap kebiasaan user, dan scenario.
+
+Dunia kerja UI/UX
+Tim yang terdiri dari UX writer yang lebih berfokus untuk mengerjakan dan memilih kata kata yang tepat untuk ditempatkan pada aplikasi/website.
+UI designer yang berfokus pada tampilan aplikasi/website.
+UX Engineer yang berfokus pada prototyping tapi dalam bentuk html dan css ataupun yang sudah clikcable.
+Interaction designer yang lebih ke mengatur transisi satu screen ke screen lain, ketika button di klik.
+UX Researcher yang akan melakukan reset ke user, validasi, user testing.
+UI/UX Designer yang diterapkan pada beberapa perusahaan ada yang spesifik atau merangkap role.
+
+Design Thinking
+Ada 5 tahap
+Empathize, suatu proses bagaimana menganalisa dan memahami perilaku pengguna dalam aktivitas sehari-hari atau tertentu.
+Define
+Proses bagaimana menganalisa data hasil proses empathize dan menentukan masalah utama dari user.
+Ideate
+Proses pembuatan solusi dari masalah yang sudah teridentifikasi dalam bentuk sebuah interface aplikasi atau website.
+Prototype
+Proses dimana membuat versi minimal yang bisa digunakan untuk pengguna. Sebagai user testing.
+Test
+Proses mencoba solusi interface yang sudah dibuat ke user bertujuan untuk mendapat data/insight/feedback dari solusi yang dibuat.
+
+Software yang digunakan
+Software yang digunakan oleh seorang UI/UX designer yaitu
+Dokumentasi dan analisa : google docs, google sheets
+Design & prototyping : sketch, figma
+Handover : zeplin
+Online testing : maze, hotjar
+
+Basic rule UI/UX
+Memahami user. Dengan memahami siapa dan bagaimana perilaku usernya, solusi uang dibuat akan lebih tepat.
+Kejelasan sistem. Dengan memberikan balasan yang jelas, user dapat mudah mengatasi masalah yang user hadapi saat menggunakan aplikasi/website yang dirancang.
+Menyerupai dunia nyata. User akan lebih mudah memahami ketika elemen pada aplikasi/website menyerupai dunia nyata.
+Kebebasan pengguna. User akan nyaman ketika mempunyai pilihan saat menggunakan aplikasi/website.
+Konsisten. Ketika melakukan konsistensi dan menerapkan standar ketika mendesain, dapat memperoleh dua keuntungan yaitu mengurangi pembelajaran oleh user dan menghilangkan kebingungan.
+Mencegah error. Harus meminimalisir kemungkinan kesalahan yang dilakukan pengguna. Seperti message atau warning.
+Mengenali daripada mengingat. Elemen yang digunakan mudah dikenali user daripada harus diingat tiap elemen oleh user.
+Fleksibel dan efisien. Harus memastikan bahwa user bisa melakukan yang mereka inginkan secara fleksibel dan efisien.
+Estetik dan minimalis. Hal ini akan meningkatkan kepuasan user dalam penggunaan dari aplikasi/website yang dibuat.
+
+Jenis-jenis prototype
+Low fidelity bertujuan untuk menemukan garis besar apk seperti apa, belum ada informasi, namun mengetahui isi/kontennya dimana.
+Medium fidelity, disini sudah menambahkan teks dan placeholdernya lebih rapi. Jadi gambaran nya sudah bukan gambaran kasar lagi.
+High fidelity, semua sudah touch up secara warna, font, style, desain.
+
+Jenis-jenis user Testing
+Offline user testing seperti menggunakan low fidelity interface. Geurilla user testing yang dilakukan di tempat umum dan random.
+Online user testing dapat dilakukan secara online melalui video call atau menggunakan aplikasi.
